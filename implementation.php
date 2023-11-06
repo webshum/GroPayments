@@ -6,7 +6,7 @@
 	<link rel="stylesheet" href="https://use.typekit.net/ayc5qrg.css">
 	<link rel="stylesheet" href="css/splide.min.css">
 	<link rel="stylesheet" href="css/style.css">
-	<title>Payment optimization</title>
+	<title>Expert Payment Strategy | Gro Payments</title>
 </head>
 <body class="page-implementation">
 
@@ -26,12 +26,14 @@
 					<div></div>
 				</div>
 
+			
+
 				<h1 class="title animated anim-heading h-700">
 					<div class="crop-heading">
-						<div class="text"><span>Online payment processing</span></div>
+						<div class="text"><span>Unlock Your Business's Potential </span></div>
 					</div>
 					<div class="crop-heading">
-						<div class="text"><span>that powers growth</span></div>
+						<div class="text"><span>with Expert Payment Strategy</span></div>
 					</div>
 				</h1>
 
@@ -46,13 +48,13 @@
 						<div class="text"><span>growth</span></div>
 					</div>
 				</h1>
-
-				<p class="main-subtitle animated">In the dynamic and complex landscape of digital payments, it's not enough<br> just to accept payments. Success lies in effectively managing these<br> transactions to optimize both initial and recurring authorization rates.</p>
+				                                  
+				<p class="main-subtitle animated">Our Strategic Payment Advisory is tailored to scale your transaction volume,<br> manage chargeback ratios effectively, reduce fraud, and maintain<br> healthy merchant accounts. We ensure your payment systems aren't just<br> operational but are fine-tuned for peak performance, driving your brand<br> towards its strategic goals.</p>
 
 				<div class="group-links">
-					<a href="#" class="btn">Apply Now</a>
+					<a href="apply" class="btn">Apply Now</a>
 					<a href="#" class="btn-arr">
-						<span>See documentation</span>
+						<span>Learn more</span>
 						<svg width="11" height="9"><use xlink:href="#arr-right-2"></use></svg>
 					</a>
 				</div>
@@ -62,12 +64,13 @@
 				<div class="icon" data-src="net_1" data-loop="true" data-start="true"></div>
 				
 				 <?php //include('inc/svg/board.svg'); ?>
-
+				
+				
 				<div class="board-card">
 					<div class="card animated scale-up">
 						<div class="left">
 							<p class="title">Transaction amount</p>
-							<h4 class="price">$175.49</h4>
+							<h4 class="price">$387.50</h4>
 						</div>
 
 						<div class="right animated scale-down">
@@ -82,7 +85,7 @@
 					<div class="card animated scale-up">
 						<div class="left">
 							<p class="title">Transaction amount</p>
-							<h4 class="price">$256.89</h4>
+							<h4 class="price">$129.50</h4>
 						</div>
 
 						<div class="right animated scale-down">
@@ -97,7 +100,7 @@
 					<div class="card animated scale-up">
 						<div class="left">
 							<p class="title">Transaction amount</p>
-							<h4 class="price">$84.60</h4>
+							<h4 class="price">$290.25</h4>
 						</div>
 
 						<div class="right animated scale-down">
@@ -108,6 +111,7 @@
 							</div>
 						</div>
 					</div>
+				
 				</div>
 			</div>
 		</div>
@@ -172,7 +176,7 @@
 				</div>
 
 				<h3 class="title animated anim-heading">
-					<span>Payments Orchestration</span>
+					<span>Optimize your Payment Processing</span>
 				</h3>
 
 				<div class="descr">
@@ -187,40 +191,51 @@
 	<!-- MAIN -->
 	<main class="main">
 		<div class="faq"> 
-			<h3 class="title animated anim-heading tx-c h-700">Frequently Asked Questions</h3>
-			<h3 class="title animated anim-heading tx-c d-none s-700">FAQ</h3>
+			<h3 class="title animated anim-heading tx-c h-700">Payment Advisory FAQs</h3>
+			<h3 class="title animated anim-heading tx-c d-none s-700">Payment Advisory FAQs</h3>
 
 			<ul class="accordeon">
 			    <li class="item-accordeon animated active">
 			        <div class="btn-accordeon">
-			        	<span>What services does GRO Payments offer?</span>
+			        	<span>Who can benefit from GRO Payments' Payment Architecting?</span>
 			        	<i class="plus"></i>
 			        </div>
 			
 			        <div class="content-accordeon">
-			            <div class="inner-accordeon">GRO Payments offers a broad range of services including Payments Orchestration, Implementation of Payment Systems, Merchant Processing Services, Consulting, and more. We are equipped to handle everything from setting up payment systems for online stores to optimizing recurring payment success for subscription models.</div>
+			            <div class="inner-accordeon">Any business seeking to refine their payment processing strategy—online retailers, subscription services, marketplaces, and platform-based models can all reap the benefits of our tailored advisory services.</div>
 			        </div>
 			    </li>
 
 			    <li class="item-accordeon animated">
 			        <div class="btn-accordeon">
-			        	<span>What does GRO Payments' Implementation Services include?</span>
+			        	<span>How does Payment Architecting ensure transaction security?</span>
 			        	<i class="plus"></i>
 			        </div>
 			
 			        <div class="content-accordeon">
-			            <div class="inner-accordeon">GRO Payments offers a broad range of services including Payments Orchestration, Implementation of Payment Systems, Merchant Processing Services, Consulting, and more. We are equipped to handle everything from setting up payment systems for online stores to optimizing recurring payment success for subscription models.</div>
+			            <div class="inner-accordeon"> We advocate for and guide you towards solutions that prioritize security, adhering to global standards like PCI DSS, employing state-of-the-art encryption, and integrating advanced fraud prevention mechanisms.</div>
 			        </div>
 			    </li>
 
 			    <li class="item-accordeon animated">
 			        <div class="btn-accordeon">
-			        	<span>What does "Payments Orchestration" mean?</span>
+			        	<span>Does Payment Architecting include high-risk payment advisement?</span>
 			        	<i class="plus"></i>
 			        </div>
 			
 			        <div class="content-accordeon">
-			            <div class="inner-accordeon">GRO Payments offers a broad range of services including Payments Orchestration, Implementation of Payment Systems, Merchant Processing Services, Consulting, and more. We are equipped to handle everything from setting up payment systems for online stores to optimizing recurring payment success for subscription models.</div>
+			            <div class="inner-accordeon">Absolutely. Our acumen in high-risk sectors allows us to provide specialized advisement, optimizing your payment acceptance while mitigating risks.</div>
+			        </div>
+			    </li>
+
+				 <li class="item-accordeon animated">
+			        <div class="btn-accordeon">
+			        	<span>What sets GRO Payments' Payment Architecting apart from others?</span>
+			        	<i class="plus"></i>
+			        </div>
+			
+			        <div class="content-accordeon">
+			            <div class="inner-accordeon">Our unique blend of technological expertise, marketing acumen, and industry foresight. We don't just advise; we partner with you to architect a payment strategy that scales with your vision.</div>
 			        </div>
 			    </li>
 			</ul>	
@@ -249,7 +264,7 @@
 
 			<p class="animated">Experience exceptional payment<br class="d-none s-700"> performance with<br class="h-700"> advanced solutions<br class="d-none s-700"> from GRO Payments!</p>
 			<div class="animated">
-				<a href="#" class="btn">Apply Now</a>
+				<a href="apply" class="btn">Apply Now</a>
 			</div>
 		</div>
 	</section>

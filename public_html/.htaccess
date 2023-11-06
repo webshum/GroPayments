@@ -1,0 +1,11 @@
+RewriteEngine On
+
+# Якщо запитується реальний файл або каталог, просто виконайте запит
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# Переписуємо URL для slug
+#RewriteRule ^([^/]+)/?$ post.php?slug=$1 [L,QSA]
+
+# Інакше видаліть розширення .php з URL
+RewriteRule ^(.*)$ $1.php [L,QSA]

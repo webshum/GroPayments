@@ -47,8 +47,8 @@
 					</div>
 					
 					<div class="aside-box">
-						<h3>Subscribe to our<br> newsletter</h3>
-						<p>Lorem ipsum dolor sit amet nsectetur adipiscing elit lobortis arcu enim.</p>
+						<h3>Join the GRO Payments Insider Community</h3>
+						<p style="font-size: 15px; line-height: 18px;">Stay ahead of the curve with the latest insights in payment processing, customer acquisition strategies, brand building, and expansion tactics — all delivered straight to your inbox.</p>
 						<form action="subscribe.php" method="POST" class="js-subscribe">
 							<input required type="email" pattern="[^@\s]+@[^@\s]+\.[^@\s]+" placeholder="ENTER YOUR EMAIL ADDRESS">
 							<button type="submit">

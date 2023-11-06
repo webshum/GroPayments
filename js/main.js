@@ -1,3 +1,28 @@
+const hash = document.querySelectorAll('.hash-link');
+
+hash.forEach(hash => {
+	hash.addEventListener('click', e => {
+		window.location.href = e.target.href;
+	});
+});
+
+const buttons = document.querySelectorAll('.btn');
+const currentPageIdentifier = window.location.href;
+
+const pageCookieName = 'buttonVisited-' + currentPageIdentifier;
+if (document.cookie.indexOf(pageCookieName + '=1') !== -1) {
+	buttons.forEach((button) => {
+	    button.classList.add('visited');
+	});
+}
+
+buttons.forEach((button, index) => {
+	button.addEventListener('click', function () {
+	    document.cookie = pageCookieName + '=1; expires=' + new Date(new Date().getTime() + 24 * 60 * 60 * 1000).toUTCString();
+	    button.classList.add('visited');
+	});
+});
+
 function header() {
 	const header = document.getElementById('header');
 	const nav = document.querySelector('.wrap-nav');

@@ -6,7 +6,7 @@
 	<link rel="stylesheet" href="https://use.typekit.net/ayc5qrg.css">
 	<link rel="stylesheet" href="css/splide.min.css">
 	<link rel="stylesheet" href="css/style.css">
-	<title>Solutions</title>
+	<title>Solutions | Gro Payments</title>
 </head>
 <body class="page-solutions-2">
 
@@ -28,7 +28,7 @@
 
 				<div class="slogan animated">
 					<svg width="15" height="15"><use xlink:href="#vector"></use></svg>
-					<span>PAYMENT ORCHESTRATION</span>
+					<span>SOLUTIONS</span>
 				</div>
 
 				<h1 class="title animated anim-heading">
@@ -131,7 +131,7 @@
 												</linearGradient>
 												</defs>
 												</svg>
-												<div class="text">95.61%</div>
+												<div class="text">96.51%</div>
 											</div>
 
 											<div class="foot">First time customer payments</div>
@@ -162,9 +162,9 @@
 												</div>
 											</div>
 
-											<div class="choise">
-												<div>Yes</div>
-												<div>No</div>
+											<div style="margin-left: 60px;" class="choise">
+												<div>Success</div>
+												<div>Retry</div>
 											</div>
 										</div>
 
@@ -178,7 +178,7 @@
 														</div>
 													</div>
 													<div>
-														<strong>Overal churn</strong>
+														<strong>Overall Churn</strong>
 														<div class="percent">
 															<span>22%</span>
 														</div>
@@ -245,7 +245,7 @@
 				</h2>
 
 				<p class="subtitle animated">Our specialty is advanced<br class="d-none s-700"> merchant processing.</p>
-				<p class="d-none s-700">New Sale/Auth | Recurring |<br> Orders | Product Manager |<br> Transaction Reports | Settings</p>
+				<p class="d-none s-700">Subscription | Continuity | Trial</p>
 
 				<div class="links animated h-700">
 					<span>Subscription</span>&nbsp;&nbsp;|&nbsp;&nbsp;
@@ -258,7 +258,7 @@
 						<div class="ic">
 							<svg width="14" height="10"><use xlink:href="#check-3"></use></svg>
 						</div>
-						<p>Sass</p>
+						<p>SaaS</p>
 					</li>
 					<li class="animated">
 						<div class="ic">
@@ -282,14 +282,33 @@
 						<div class="ic">
 							<svg width="14" height="10"><use xlink:href="#check-3"></use></svg>
 						</div>
-						<p>Drop Shipping</p>
+						<p>B2B recurring</p>
 					</li>
 					<li class="animated h-700">
 						<div class="ic">
 							<svg width="14" height="10"><use xlink:href="#check-3"></use></svg>
 						</div>
-						<p>VIP Clubs</p>
+						<p>Membership Clubs</p>
 					</li>
+					<li class="animated h-700">
+						<div class="ic">
+							<svg width="14" height="10"><use xlink:href="#check-3"></use></svg>
+						</div>
+						<p>Digital Subscriptions</p>
+					</li>
+					<li class="animated h-700">
+						<div class="ic">
+							<svg width="14" height="10"><use xlink:href="#check-3"></use></svg>
+						</div>
+						<p>Media and Streaming Subscriptions</p>
+					</li>
+					<li class="animated h-700">
+						<div class="ic">
+							<svg width="14" height="10"><use xlink:href="#check-3"></use></svg>
+						</div>
+						<p>Subscription Box</p>
+					</li>
+					 
 				</ul>
 			</div>
 		</section>
@@ -450,12 +469,36 @@
 						</div>
 						<p>Healthcare</p>
 					</li>
+					<li class="icon-hover">
+						<div class="ic">
+							<i class="ic-credit_repair" data-src="credit_repair" data-start="true"></i>
+						</div>
+						<p>Credit Repair</p>
+					</li>
+					<li class="icon-hover">
+						<div class="ic">
+							<i class="ic-high_ticket" data-src="high_ticket" data-start="true"></i>
+						</div>
+						<p>High Ticket</p>
+					</li>
+					<li class="icon-hover">
+						<div class="ic">
+							<i class="ic-casino" data-src="casino" data-start="true"></i>
+						</div>
+						<p>Casino</p>
+					</li>
+					<li class="icon-hover">
+						<div class="ic">
+							<i class="ic-trial_sample" data-src="trial_sample" data-start="true"></i>
+						</div>
+						<p>Trial / Sample</p>
+					</li>
 				</ul>
 
-				<a href="#" class="more h-700">View More</a>
+				<!-- <a href="#" class="more h-700">View More</a> -->
 			</div>
 
-			<a href="#" class="more d-none s-700">View More</a>
+			<!-- <a href="#" class="more d-none s-700">View More</a> -->
 		</div>
 	</section>
 	<!-- // SUPPORT -->
@@ -469,12 +512,12 @@
 					<h3 class="title animated h-700">A Professional<br> Payments Platform for<br> the <span>Modern Business</span></h3>
 					<h3 class="title animated d-none s-700">A Professional<br>Payments Platform<br>for the <span>Modern</span><br><span>Business</span></h3>
 
-					<p class="subtitle animated">Stax puts the power in your hands.</p>
-					<p class="text animated">Reach valued clients wherever they may be with an all-in-one payments platform built for the modern professional services business. Create professional invoices, schedule recurring payments, and intuitively manage your client’s payments to deliver a reliable and trustworthy service experience.</p>
+					<p class="subtitle animated">We put the power in your hands.</p>
+					<p class="text animated">Reach valued clients wherever they may be with an all-in-one payments platform built for the modern professional services business. Create professional invoices, schedule recurring payments, and intuitively manage your clients’ payments to deliver a reliable and trustworthy service experience.</p>
 
 					<div class="btn-group animated">
-						<a href="#" class="btn">Technology</a>
-						<a href="#" class="btn fill-none">Integrations</a>
+						<a href="technology" class="btn">Technology</a>
+						<a href="technology" class="btn fill-none">Integrations</a>
 					</div>
 				</div>
 
@@ -507,13 +550,13 @@
 								<span>+ 10¢</span>
 							</div>
 
-							<div class="text animated">Per successful credit or debit card charge</div>
+							<div class="text animated">*As low as (when qualified)</div>
 							<div class="descr animated">Integrate payments acceptance into your<br> online platform for a frictionless<br> customer experience.</div>
 
 							<ul class="list">
 								<li class="animated">
 									<img src="img/ic-check.svg" alt="">
-									<p>Set up in minutes</p>
+									<p>Lower your cost basis</p>
 								</li>
 								<li class="animated">
 									<img src="img/ic-check.svg" alt="">
@@ -521,11 +564,12 @@
 								</li>
 								<li class="animated">
 									<img src="img/ic-check.svg" alt="">
-									<p>All major payment methods</p>
+									<p>Reduce invalid declines</p>
 								</li>
 							</ul>
 
-							<a href="#" class="btn">Learn More</a>
+
+							<a href="apply" class="btn">Get Started</a>
 						</div>
 					</div>
 
@@ -535,23 +579,23 @@
 
 							<div class="percent animated">
 								<svg width="50" height="50"><use xlink:href="#vector-col"></use></svg>
-								<p>1.8%</p>
-								<span>+ 25¢</span>
+								<p>1.9%</p>
+								<span>+ 15¢</span>
 							</div>
 
-							<div class="text animated">Per successful credit or debit card charge</div>
+							<div class="text animated">*As low as (when qualified)</div>
 							<div class="descr animated">Choose from a variety of in-person<br> payment methods and terminals that<br> allow customers to tap, dip, and swipe.</div>
 
-							<a href="#" class="btn fill-none">Learn More</a>
+							<a href="apply" class="btn fill-none">Get Started</a>
 						</div>
 					</div>
 				</div>
 			</section>
 			<!-- // methods -->
 
-			<!-- online -->
+			<!-- Additional Features  
 			<section class="online">
-				<h3 class="tx-c animated">Online payment acceptance methods</h3>
+				<h3 class="tx-c animated">Additional features:</h3>
 				<ul class="online-card">
 					<li class="animated">
 						<div class="head">
@@ -604,7 +648,7 @@
 					</li>
 				</ul>
 			</section>
-			<!-- // online -->
+			 // Additional Features  -->
 
 			<!-- faq -->
 			<div class="faq"> 
@@ -628,34 +672,12 @@
 
 				    <li class="item-accordeon animated">
 				        <div class="btn-accordeon">
-				        	<span>What does GRO Payments' Implementation Services include?</span>
-				        	<i class="plus"></i>
-				        </div>
-				
-				        <div class="content-accordeon">
-				            <div class="inner-accordeon">GRO Payments offers a broad range of services including Payments Orchestration, Implementation of Payment Systems, Merchant Processing Services, Consulting, and more. We are equipped to handle everything from setting up payment systems for online stores to optimizing recurring payment success for subscription models.</div>
-				        </div>
-				    </li>
-
-				    <li class="item-accordeon animated">
-				        <div class="btn-accordeon">
 				        	<span>What does "Payments Orchestration" mean?</span>
 				        	<i class="plus"></i>
 				        </div>
 				
 				        <div class="content-accordeon">
-				            <div class="inner-accordeon">GRO Payments offers a broad range of services including Payments Orchestration, Implementation of Payment Systems, Merchant Processing Services, Consulting, and more. We are equipped to handle everything from setting up payment systems for online stores to optimizing recurring payment success for subscription models.</div>
-				        </div>
-				    </li>
-
-				    <li class="item-accordeon animated">
-				        <div class="btn-accordeon">
-				        	<span>How does GRO Payments help to reduce processing and gateway fees?</span>
-				        	<i class="plus"></i>
-				        </div>
-				
-				        <div class="content-accordeon">
-				            <div class="inner-accordeon">GRO Payments offers a broad range of services including Payments Orchestration, Implementation of Payment Systems, Merchant Processing Services, Consulting, and more. We are equipped to handle everything from setting up payment systems for online stores to optimizing recurring payment success for subscription models.</div>
+				            <div class="inner-accordeon">Payments Orchestration refers to the process of managing multiple payment gateways, processors, and alternative payment methods through a single, unified platform. Our goal with Payments Orchestration is to increase initial and recurring authorization rates, enhancing your business's overall revenue and financial performance.</div>
 				        </div>
 				    </li>
 
@@ -666,7 +688,29 @@
 				        </div>
 				
 				        <div class="content-accordeon">
-				            <div class="inner-accordeon">GRO Payments offers a broad range of services including Payments Orchestration, Implementation of Payment Systems, Merchant Processing Services, Consulting, and more. We are equipped to handle everything from setting up payment systems for online stores to optimizing recurring payment success for subscription models.</div>
+				            <div class="inner-accordeon">While the term "high risk" is commonly used, at GRO Payments, we prefer to call these "specialty markets". This refers to businesses that operate within industries considered to be higher risk due to various factors such as fraud, chargebacks, or regulatory scrutiny. We specialize in providing secure, efficient, and compliant payment processing solutions for these markets.</div>
+				        </div>
+				    </li>
+
+				    <li class="item-accordeon animated">
+				        <div class="btn-accordeon">
+				        	<span>How does GRO Payments help to reduce processing and gateway fees?</span>
+				        	<i class="plus"></i>
+				        </div>
+				
+				        <div class="content-accordeon">
+				            <div class="inner-accordeon">As our partners scale, we continuously review their processing operations to identify opportunities for cost reduction. This could include negotiating better terms with payment processors or optimizing transaction routing to reduce gateway fees.</div>
+				        </div>
+				    </li>
+
+					<li class="item-accordeon animated">
+				        <div class="btn-accordeon">
+				        	<span>How does GRO Payments support businesses in scaling up or down?</span>
+				        	<i class="plus"></i>
+				        </div>
+				
+				        <div class="content-accordeon">
+				            <div class="inner-accordeon">Thanks to our strategic relationships with over 40 acquiring banks and payment providers, we can provide our merchants with the flexibility to scale their operations up or down as needed. We understand that business needs can change and we are here to provide solutions that adapt to these changes.</div>
 				        </div>
 				    </li>
 				</ul>	

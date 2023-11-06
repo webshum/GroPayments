@@ -6,7 +6,7 @@
 	<link rel="stylesheet" href="https://use.typekit.net/ayc5qrg.css">
 	<link rel="stylesheet" href="css/splide.min.css">
 	<link rel="stylesheet" href="css/style.css">
-	<title>Payment optimization</title>
+	<title>Payment optimization | Gro Payments</title>
 </head>
 <body class="page-payment">
 
@@ -101,8 +101,8 @@
 								</div>
 							</div>
 							
-							<h3 class="animated">Customer-Centric Approach</h3>
-							<p class="animated">We prioritize understanding your unique business needs<br> and provide personalized support, guidance, and<br> optimization strategies. Our team is dedicated to being<br> your trusted payment partner, helping you navigate the<br> complexities of the payment landscape and drive growth.</p>
+							<h3 class="animated">Customer-Centric Approach</h3>                    
+							<p class="animated">We prioritize understanding your unique business needs<br> and provide personalized guidance and optimization<br> strategies. Our team is dedicated to helping you navigate<br> the complexities of the payment landscape and maximize growth.</p>
 						</li>
 					</ul>
 			   	</div>
@@ -235,7 +235,7 @@
 
 			<p class="animated">Experience exceptional payment<br class="d-none s-700"> performance with<br class="h-700"> advanced solutions<br class="d-none s-700"> from GRO Payments!</p>
 			<div class="animated">
-				<a href="#" class="btn">Apply Now</a>
+				<a href="apply" class="btn">Apply Now</a>
 			</div>
 		</div>
 	</section>

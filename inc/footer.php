@@ -6,48 +6,49 @@
 					<div class="col">
 						<h3>Products & Network</h3>
 						<ul>
-							<li><a href="#">Payments processing</a></li>
-							<li><a href="#">Payouts</a></li>
-							<li><a href="#">Issuing</a></li>
-							<li><a href="#">Fraud detection</a></li>
-							<li><a href="#">Authentication</a></li>
-							<li><a href="#">Intelligent acceptance</a></li>
-							<li><a href="#">Integrated platforms</a></li>
-							<li><a href="#">Integration</a></li>
+							<li><a href="/">Payments processing</a></li>
+							<li><a href="/">Payouts</a></li>
+							<li><a href="/">Issuing</a></li>
+							<li><a href="/">Fraud detection</a></li>
+							<li><a href="/">Authentication</a></li>
+							<li><a href="/">Intelligent acceptance</a></li>
+							<li><a href="/">Integrated platforms</a></li>
+							<li><a href="/">Integration</a></li>
 						</ul>
 					</div>
 
 					<div class="col">
 						<h3>Solutions</h3>
 						<ul>
-							<li><a href="#">eCommerce</a></li>
-							<li><a href="#">Fintech</a></li>
-							<li><a href="#">Gaming</a></li>
-							<li><a href="#">Crypto</a></li>
-							<li><a href="#">Marketplace</a></li>
-							<li><a href="#">Payment facilitators</a></li>
+							<li><a href="/">eCommerce</a></li>
+							<li><a href="/">Fintech</a></li>
+							<li><a href="/">Gaming</a></li>
+							<li><a href="/">Crypto</a></li>
+							<li><a href="/">Marketplace</a></li>
+							<li><a href="/">Payment facilitators</a></li>
 						</ul>
 					</div>
 
 					<div class="col">
 						<h3>GRO vs.</h3>
 						<ul>
-							<li><a href="#">OCheckout.com</a></li>
-							<li><a href="#">Our customers</a></li>
-							<li><a href="#">Leadership team</a></li>
-							<li><a href="#">Newsroom</a></li>
-							<li><a href="#">Life at Checkout.com</a></li>
-							<li><a href="#">Open positions</a></li>
-							<li><a href="#">Diversity & inclusion</a></li>
+							<li><a href="/">Checkout.com</a></li>
+							<li><a href="/">Stripe</a></li>
+							<li><a href="/">E-merchant Broker</a></li>
+							<li><a href="/">Quantum Epay</a></li>
+							<li><a href="/">Staxx Payments</a></li>
+							<li><a href="/">Braintree</a></li>
+							<li><a href="/">Spoton</a></li>
+							<li><a href="/">View all...</a></li>
 						</ul>
 					</div>
 
 					<div class="col">
 						<h3>Developers</h3>
 						<ul>
-							<li><a href="#">Documentation</a></li>
-							<li><a href="#">API reference</a></li>
-							<li><a href="#">Test account</a></li>
+							<li><a href="/">Documentation</a></li>
+							<li><a href="/">API reference</a></li>
+							<li><a href="/">Test accounts</a></li>
 						</ul>
 					</div>
 
@@ -55,8 +56,8 @@
 						<h3>Resources</h3>
 						<ul>
 							<li><a href="blog">Blog</a></li>
-							<li><a href="#">Case studies</a></li>
-							<li><a href="#">Support</a></li>
+							<li><a href="/">Case studies</a></li>
+							<li><a href="/">Support</a></li>
 						</ul>
 					</div>
 
@@ -87,14 +88,14 @@
 
 	<div class="footer-copy">
 		<div class="center">
-			<p class="copy">&copy; 2023 Gro Payments. All Rights Reserved.</p>
+			<p class="copy">&copy; <?php echo date("Y"); ?> Gro Payments. All Rights Reserved.</p>
 
-			<ul>
+			<ul>				 
 				<li>
-					<a href="#">Privacy Terms</a>
+					<a class="hash-link" href="legal#privacy-policy">Privacy Policy</a>			 
 				</li>
 				<li>
-					<a href="#">Terms of Service</a>
+					<a href="legal">Terms of Service</a>
 				</li>
 			</ul>
 		</div>

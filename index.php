@@ -4,9 +4,28 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" href="https://use.typekit.net/ayc5qrg.css">
-	<link rel="stylesheet" href="css/splide.min.css">
+	<link rel="stylesheet" href="css/splide.min.css?ver=2">
 	<link rel="stylesheet" href="css/style.css">
-	<title>Home</title>
+	<title>Gro Payments | Home</title>
+	<meta name="description" content="" />
+	<meta name="keywords" content="" />
+
+
+	<link rel="apple-touch-icon" sizes="180x180" href="favicon.ico">
+	<link rel="icon" type="image/png" sizes="32x32" href="favicon.ico">
+	<link rel="icon" type="image/png" sizes="16x16" href="favicon.ico">
+	<link rel="manifest" href="favicon.ico">
+
+	 
+	<link rel="canonical" href="https://gropayments.com">
+	 
+ 
+	<meta property="og:url" content="https://gropayments.com">
+	<meta property="og:type" content="website">
+	<meta property="og:title" content="Gro Payments | #1 Rated Subscription Merchant Processing Solution">
+	<meta property="og:description" content="We take Payments to the Next Level">
+	<meta property="og:image" content="https://gropayments.com/img/gropayments-og.jpg">
+ 
 </head>
 <body class="page-frontend">
 
@@ -15,13 +34,31 @@
 	<?php include('inc/header.php'); ?>
 	<!-- // HEADER -->
 
+	<div class="main-stars">
+		<div class="firefly"></div>
+		<div class="firefly"></div>
+		<div class="firefly"></div>
+		<div class="firefly"></div>
+		<div class="firefly"></div>
+		<div class="firefly"></div>
+		<div class="firefly"></div>
+		<div class="firefly"></div>
+		<div class="firefly"></div>
+		<div class="firefly"></div>
+		<div class="firefly"></div>
+		<div class="firefly"></div>
+		<div class="firefly"></div>
+		<div class="firefly"></div>
+		<div class="firefly"></div>
+	</div>	
+
 	<!-- HOME -->
 	<section class="home">
 		<div class="center">
 			<div class="home-content">
 				<div class="slogan">
 					<svg width="15" height="15"><use xlink:href="#vector"></use></svg>
-					<span>A new kind of “high-risk” merchant processing</span>
+					<span>A new kind of merchant processing</span>
 				</div>
 
 				<h1 class="title animated anim-heading">
@@ -35,39 +72,21 @@
 						<div class="text">Can Make For Your</div>
 					</div>
 					<div class="crop-heading last">
-						<div class="text"><span class="typer" data-deletedelay="3000" data-delay="90" data-words="SAAS Business, DTC Brand, E-commerce Store, Online Business"></span></div>
+						<div class="text"><span class="typer" data-deletedelay="3000" data-delay="90" data-words="SAAS Service, DTC Brand, E-commerce Store, Subscription Business"></span></div>
 					</div>
 				</h1>
 
 				<div class="descr">Empower your business with seamlessly<br class="d-none s-700"> integrated payment solutions<br class="h-700"> from Gro Payments,<br class="d-none s-700"> simplifying processes, enhancing efficiency, and<br> driving unparalleled success.</div>
 
-				<a href="#" class="btn">Apply Now</a><br>
+				<a href="apply" class="btn">Apply Now</a><br>
 
 				<div class="hash">
 					<span>#1</span>
-					<span>Rated High-Risk Merchant Processing Solutions</span>
+					<span>Rated Subscription Merchant Processing Solution</span>
 				</div>
 			</div>
 
 			<div class="home-graphic">
-				<div class="main-stars">
-					<div class="firefly"></div>
-					<div class="firefly"></div>
-					<div class="firefly"></div>
-					<div class="firefly"></div>
-					<div class="firefly"></div>
-					<div class="firefly"></div>
-					<div class="firefly"></div>
-					<div class="firefly"></div>
-					<div class="firefly"></div>
-					<div class="firefly"></div>
-					<div class="firefly"></div>
-					<div class="firefly"></div>
-					<div class="firefly"></div>
-					<div class="firefly"></div>
-					<div class="firefly"></div>
-				</div>	
-
 				<img src="img/ellips-big.png" alt="" class="ellips-big">
 				<img src="img/ellips.png" alt="" class="ellips">
 
@@ -80,11 +99,11 @@
 						<div class="text animated zoom">Monthly sales volume</div>
 						<div class="foot animated fade-left">
 							<div class="number">$1.2M</div>
-							<strong>Total payments</strong>
+							<strong>Total payments (today)</strong>
 						</div>
 						<div class="foot animated fade-left">
-							<div class="number">$44K</div>
-							<strong>Average daily payments</strong>
+							<div class="number">$802K</div>
+							<strong>Average daily</strong>
 						</div>
 					</div>
 
@@ -101,10 +120,10 @@
 							        </linearGradient>
 							    </defs>
 							</svg>
-							<div class="percent typer-number">95.<span data-delay="1500" data-time="100" data-min="40" data-max="61">61</span>%</div>
+							<div class="percent typer-number">96.<span data-delay="1500" data-time="100" data-min="40" data-max="61">52</span>%</div>
 						</div>
 
-						<strong>Online payments</strong>
+						<strong>Online payments (new customers)</strong>
 					</div>
 
 					<div class="card-merchants animated scale-up">
@@ -132,7 +151,7 @@
 							<h4>Vantiv/worldpay</h4>
 						</div>
 
-						<a href="#" class="view animated fade-left">VIEW ALL</a>
+						<a href="sign-in" class="view animated fade-left">VIEW ALL</a>
 					</div>
 
 					<div class="card-chargeback animated scale-up">
@@ -449,7 +468,7 @@
 				</ul>
 
 				<div class="animated">
-					<a href="#" class="btn">Get started now</a>
+					<a href="apply" class="btn">Get started now</a>
 				</div>
 			</div>
 		</div>
@@ -478,7 +497,7 @@
 						</div>
 						
 						<h3 class="heading">Streamlined Cost Management</h3>
-						<p class="text">GRO Payments helps you effectively<br> manage costs with transparent pricing<br> and competitive rates. Our goal is to<br> maximize profitability and enable you to<br> reinvest in your business.</p>
+						<p class="text">GRO Payments helps you effectively<br> manage costs with transparent pricing<br> and competitive rates. Our goal is to<br> maximize your profitability and enable you to<br> reinvest in your business.</p>
 					</li>
 
 					<li class="animated scale-down icon-hover">
@@ -487,7 +506,7 @@
 						</div>
 						
 						<h3 class="heading">Optimized Authorization Rates</h3>
-						<p class="text">Through advanced technology and strategic<br> partnerships, we enhance approval rates and<br> mitigate the risk of credit card declines. Our<br> robust fraud detection systems and intelligent<br> transaction routing ensure a seamless<br> payment experience</p>
+						<p class="text">Through advanced technology and strategic<br> partnerships, we enhance approval rates and<br> mitigate the risk of credit card declines. Our<br> robust fraud detection systems and intelligent<br> transaction routing ensure a seamless<br> payment experience.</p>
 					</li>
 
 					<li class="animated scale-down icon-hover">
@@ -496,7 +515,7 @@
 						</div>
 						
 						<h3 class="heading">Diverse Payment Options</h3>
-						<p class="text">We offer a wide range of alternative<br> payment methods, from bank transfers to<br> digital wallets, reducing reliance on credit<br> cards and providing a frictionless<br> experience for your customers</p>
+						<p class="text">We offer a wide range of alternative<br> payment methods, from bank transfers to<br> digital wallets, reducing reliance on credit<br> cards and providing a frictionless<br> experience for your customers.</p>
 					</li>
 
 					<li class="animated scale-down icon-hover">
@@ -505,7 +524,7 @@
 						</div>
 						
 						<h3 class="heading">Customer-Centric Approach</h3>
-						<p class="text">We prioritize understanding your unique business needs<br> and provide personalized support, guidance, and<br> optimization strategies. Our team is dedicated to being<br> your trusted payment partner, helping you navigate the<br> complexities of the payment landscape and drive growth</p>
+						<p class="text">We prioritize understanding your unique business needs<br> and provide personalized support, guidance, and<br> optimization strategies. Our team is dedicated to being<br> your trusted payment partner, helping you navigate the<br> complexities of the payment landscape and drive growth.</p>
 					</li>
 				</ul>
 
@@ -579,7 +598,7 @@
 				<p class="animated">At GRO Payments, we understand the unique needs and complexities that<br> come with high-volume transactions and substantial annual sales. We are<br> fully equipped and committed to serving large-scale merchants, including<br> those with complex subscription offerings.</p>
 
 				<div class="tx-c d-none s-700">
-					<a href="#" class="btn-more">View More</a>
+					<a href="apply" class="btn-more">View More</a>
 				</div>
 			</div>
 
@@ -776,9 +795,10 @@
 
 					<p class="text animated d-none s-700">Performance-oriented processing goes<br> beyond transaction facilitation—it's<br> about elevating your business to new<br> heights. At GRO Payments, we harness<br> advanced technology and industry...</p>
 
+					<!--
 					<div class="tx-c d-none s-700">
 						<a href="#" class="btn-more">View More</a>
-					</div>
+					</div> -->
 					
 					<p class="text-small animated">With our tailored approach, we help you optimize performance, boost revenue,<br> and provide a seamless payment experience for your customers.</p>
 					<ul class="list">
@@ -814,11 +834,12 @@
 						<h3>Recovered<br> Invoice Payments</h3>
 
 						<div class="line">
-							<h4>All Failed Revenue</h4>
+							<h4>Recoverable Revenue</h4>
+							<div class="bg"></div>
 						</div>
 
 						<div class="line">
-							<h4>Recoverable Revenue</h4>
+							<h4>All Failed Revenue</h4>
 							<div class="bg"></div>
 						</div>
 					</div>
@@ -832,12 +853,12 @@
 						<div class="group">
 							<div class="card-number animated scale-down">
 								<div class="typer-number">$3.<span data-delay="1000" data-time="100" data-min="0" data-max="6">0</span>M+</div>
-								<p>Approved from<br> failed re-bills<br> MTD</p>
+								<p>Approved from<br> failed rebills<br> MTD</p>
 							</div>
 
 							<div class="card-number animated scale-down">
 								<div class="typer-number">$1.<span data-delay="1000" data-time="100" data-min="80" data-max="95">00</span>K</div>
-								<p>Approved from <br>failed re-bills<br> TODAY</p>
+								<p>Approved from <br>failed rebills<br> TODAY</p>
 							</div>
 						</div>
 
@@ -1069,7 +1090,7 @@
 
 			<p class="animated">Experience exceptional payment<br class="d-none s-700"> performance with<br class="h-700"> advanced solutions<br class="d-none s-700"> from GRO Payments!</p>
 			<div class="animated">
-				<a href="#" class="btn">Apply Now</a>
+				<a href="apply" class="btn">Apply Now</a>
 			</div>
 		</div>
 	</section>

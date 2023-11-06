@@ -132,8 +132,7 @@ img {
 	outline-offset: 15px;
 	outline-color: transparent;
 }
-.btn:visited,
-.btn:focus {
+.btn.visited {
 	background: #d5d5d5;
 	outline-offset: 15px;
 	outline-color: transparent;
@@ -986,7 +985,7 @@ img {
 .home-content h1 {
 	color: #fff;
 	font-weight: 500;
-	font-size: 72px;
+	font-size: 70px;
 	line-height: 1.2;
 	margin-top: 5px;
 }
@@ -2841,7 +2840,6 @@ img {
 	    margin-right: 10px;
 	}
 
-	.home-graphic {transform: scale(0.8);}
 	.card-payments {min-width: 340px;}
 	.card-payments .many {font-size: 40px;}
 	.card-payments .number {font-size: 25px;}
@@ -2903,7 +2901,7 @@ img {
 	.slogan span {font-size: 13.7px;}
 
 	.home-content h1 {
-		font-size: 39px;
+		font-size: 37px;
 		margin-top: 15px;
 	}
 	.home-content .crop-heading, 
@@ -2925,7 +2923,8 @@ img {
 
 	.home-graphic .cards {
 		zoom: 0.57;
-		margin-left: -15px;
+		width: 665px;
+		margin-left: 17px;
 	}
 	.home-graphic {
 	    zoom: 1;
@@ -2963,7 +2962,7 @@ img {
 
 @media (max-width: 413px) {
 	.slogan span {font-size: 11.5px;}
-	.home-content h1 {font-size: 34px;}
+	.home-content h1 {font-size: 32px;}
 	.home-content .descr {font-size: 16px;}
 	.hash span:first-child {
 	    font-size: 16px;
@@ -3451,6 +3450,7 @@ img {
 	color: var(--gray);
 	margin-top: 12px;
 }
+.optimization .list .text br {display: none;}
 
 .optimization .card {
 	padding: 30px 50px;
@@ -4556,6 +4556,7 @@ img {
 	padding: 0 30px;
 	border: none;
 	outline: none;
+	height: 100%;
 }
 .form-subscribe .field input::placeholder {color: #848d96;}
 .form-subscribe .field button {

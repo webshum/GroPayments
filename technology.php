@@ -6,7 +6,7 @@
 	<link rel="stylesheet" href="https://use.typekit.net/ayc5qrg.css">
 	<link rel="stylesheet" href="css/splide.min.css">
 	<link rel="stylesheet" href="css/style.css">
-	<title>Technology</title>
+	<title>Technology | Gro Payments</title>
 </head>
 <body class="page-technology">
 
@@ -69,7 +69,7 @@
 						<div class="ic">
 							<svg width="15" height="11"><use xlink:href="#check-3"></use></svg>
 						</div>
-						<span>Recurring billing recovery</span>
+						<span>More approvals, less churn</span>
 					</li>
 					<li class="animated">
 						<div class="ic">
@@ -79,9 +79,9 @@
 					</li>
 				</ul>
 
-				<a href="#" class="btn">Get Start Now</a>
+				<a href="apply"  class="btn">Get Start Now</a>
 
-				<p class="small animated">The #1 Choice for High-Risk Merchant Processing Solutions</p>
+			    <p class="small animated">&#x2192; Achieve higher payment processing performance</p>  
 			</div>
 
 			<div class="technology-graphic">
@@ -89,7 +89,7 @@
 					<div class="card-received animated scale-up">
 						<h3 class="animated">Received Funds (MTD)</h3>
 						<div class="many typer-number animated zoom">
-							$<span data-delay="1000" data-time="100" data-min="0" data-max="2">2</span>,<span data-delay="1500" data-time="100" data-min="220" data-max="236">236</span>,<span data-delay="2000" data-time="100" data-min="930" data-max="952">952</span></span>
+							$<span data-delay="1000" data-time="100" data-min="0" data-max="11">11</span>,<span data-delay="1500" data-time="100" data-min="220" data-max="236">236</span>,<span data-delay="2000" data-time="100" data-min="930" data-max="952">952</span></span>
 						</div>
 
 						<div class="chart animated zoom">
@@ -108,7 +108,7 @@
 					</div>
 
 					<div class="card-rate animated scale-up">
-						<h3 class="animated animated">Invoice Cure Rate</h3>
+						<h3 class="animated animated">Rebill Approval Rate</h3>
 						<div class="round animated zoom">
 							<svg width="185" height="185">
 								<circle class="circle-inside" r="83.5" cx="92.5" cy="92.5"></circle>
@@ -120,18 +120,18 @@
 							        </linearGradient>
 							    </defs>
 							</svg>
-							<div class="percent typer-number">84.<span data-delay="1500" data-time="100" data-min="20" data-max="48">48</span>%</div>
+							<div class="percent typer-number">88.<span data-delay="1500" data-time="100" data-min="20" data-max="48">42</span>%</div>
 						</div>
 					</div>
 
 					<div class="card-graphic animated scale-up">
 						<h3>Recovered Dunning</h3>
-						<div class="many animated zoom">$12,021</div>
+						<div class="many animated zoom">$1.15M</div>
 					</div>
 
 					<div class="card-graphic animated scale-up">
 						<h3>Captured Payments</h3>
-						<div class="many animated zoom">$92,544</div>
+						<div class="many animated zoom">$412,544</div>
 					</div>
 
 					<div class="card-graphic animated scale-up">
@@ -231,13 +231,13 @@
 							<div class="ic">
 								<svg width="14" height="10"><use xlink:href="#check-3"></use></svg>
 							</div>
-							<p>EMV &amp; Mobile Gateway Emulator</p>
+							<p>Webhooks</p>
 						</li>
 						<li class="animated">
 							<div class="ic">
 								<svg width="14" height="10"><use xlink:href="#check-3"></use></svg>
 							</div>
-							<p>PaymentRouting</p>
+							<p>Payment Routing</p>
 						</li>
 						<li class="animated">
 							<div class="ic">
@@ -273,7 +273,7 @@
 							<div class="ic">
 								<svg width="14" height="10"><use xlink:href="#check-3"></use></svg>
 							</div>
-							<p>Webhooks</p>
+							<p>EMV &amp; Mobile Gateway Emulator</p>
 						</li>
 						<li class="animated">
 							<div class="ic">
@@ -408,7 +408,7 @@
 				</div>
 
 				<div class="tx-c">
-					<a href="#" class="btn">Custom Built</a>
+					<a href="apply" class="btn">Get Started Now</a>
 				</div>
 			</div>
 			<!-- // crm -->

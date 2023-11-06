@@ -1,12 +1,12 @@
 <header id="header">
 	<div class="center">
-		<a href="index" class="logo"></a>
+		<a href="/" class="logo"></a>
 
 		<div class="wrap-nav">
 			<nav id="nav">
 				<ul>
-					<li><a href="index">Home</a></li>
-					<li><a href="our-store">Our Story</a></li>
+					<li><a href="/">Home</a></li>
+					<li><a href="our-story">Our Story</a></li>
 					<li>
 						<a href="#">
 							Services
@@ -38,9 +38,9 @@
 											<a href="implementation">
 												<div class="title">
 													<svg width="20" height="20"><use xlink:href="#lamp"></use></svg>
-													<span>Implementation</span>
-												</div>
-												<div class="desc">Processing Optimization handled by team<br> within your Brands tech infrastructure*</div>
+													<span>Strategic Payment Advisory</span>
+												</div>            
+												<div class="desc">Navigate payment complexities with our<br>tailored strategic advisement.</div>
 											</a>
 										</li>
 									</ul>
@@ -48,11 +48,11 @@
 									<div class="content">
 										<h3>Ready to take your<br> business to the next level?</h3>
 										<p class="desc">We have the best custom processing<br> solutions tailored to your individual<br> merchant needs.</p>
-										<a href="tel:(800) 340-9672" class="tel">
+										<a href="tel:(949) 669-5377" class="tel">
 											<svg width="18" height="18"><use xlink:href="#tel"></use></svg>
-											<span>(800) 340-9672</span>
+											<span>(949) 669-5377</span>
 										</a>
-										<a href="#" class="btn">Contact Us</a>
+										<a href="apply" class="btn">Contact Us</a>
 									</div>
 								</div>
 
@@ -80,11 +80,12 @@
 						</div>
 					</li>
 					<li><a href="solutions">Solutions</a></li>
-					<li><a href="learn">Learn</a></li>
+					<li><a href="technology">Technology</a></li>
+					<li><a href="blog">Blog</a></li>
 				</ul>
 
 				<div class="d-none s-700">
-					<a href="#" class="btn">Get Started</a>
+					<a href="apply" target="_blank" class="btn">Get Started</a>
 					<div class="rising-stars first">
 						<div></div>
 						<div></div>
@@ -100,7 +101,7 @@
 				<span>Login</span>
 			</a>
 
-			<a href="#" class="btn"><span>Get Started</span></a>
+			<a href="apply" target="_blank" class="btn"><span>Get Started</span></a>
 
 			<button class="btn-nav d-none">
 				<span></span><span></span>
